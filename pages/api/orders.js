@@ -34,7 +34,5 @@ export default async function handler(req, res) {
     }
   }
 
-  // Add code for viewing a specific order (GET with order ID) if needed
 
-  // Add your other CRUD operations (POST, PUT) if needed
 }
